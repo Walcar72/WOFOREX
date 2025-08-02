@@ -7,8 +7,8 @@ Recuerda aplicar siempre la estrategia de **Triple Confirmación**, registrar ca
 
 | 📅 Fecha | 💱 Par | 🧭 Señal | 🎯 Resultado | 📝 Observaciones |
 |---------|--------|--------|-------------|------------------|
-| 01/08/25 | | | | |
-| 02/08/25 | | | | |
+| 01/08/25 |- | -|- |- |
+| 02/08/25 | -|- |- |- |
 | 03/08/25 | | | | |
 | 04/08/25 | | | | |
 | 05/08/25 | | | | |
